@@ -5,7 +5,7 @@ Prime number count parallelism exercise
 - The project should be configured properly, but you can add OpenMP to 
   Visual Studio project by going to Project Properties-C/C++-Language.
   Set the Open MP Support option to "Yes"
-
+  Set the Open MP Support option to "Yes"
 
 
   1. What is the average time for ten runs of the serial version of the code? (You may run this
